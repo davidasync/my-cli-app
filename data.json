@@ -1,0 +1,42 @@
+[
+  {
+    "HotelID": 2,
+    "Name": "Hotel Gumilang",
+    "AvailableRooms": 200
+  },
+  {
+    "HotelID": 4,
+    "Name": "Hotel Safari",
+    "AvailableRooms": 150
+  },
+  {
+    "HotelID": 1,
+    "Name": "Hotel Indonesia",
+    "AvailableRooms": 500
+  },
+    {
+    "HotelID": 3,
+    "Name": "Hotel Aston",
+    "AvailableRooms": 450
+  },
+  {
+    "HotelID": 6,
+    "Name": "Hotel Amarsya",
+    "AvailableRooms": 150
+  },
+  {
+    "HotelID": 7,
+    "Name": "Hotel Parama",
+    "AvailableRooms": 200
+  },
+  {
+    "HotelID": 8,
+    "Name": "Hotel Rancamaya",
+    "AvailableRooms": 400
+  },
+  {
+    "HotelID": 9,
+    "Name": "Hotel Palace",
+    "AvailableRooms": 300
+  }
+]
